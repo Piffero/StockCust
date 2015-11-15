@@ -23,13 +23,13 @@ Adiministrando todo o conteúdo atravéz de um formulários de cadastro e relat�
  - PHP5.5 OOP;
  - Banco de dados MySQL;
  
-# caracteristicas Estruturais
+# Caracteristicas Estruturais
 - O Aplicativo deve conter  Topo, Menu (Side Bar), conteúdo e roda pé;
 - A Pagina principal deve conter uma opção para o usuário logar no sistema;
 - Apresenta-se em forma de lista (tabela) com todos os registros cadastrados onde nesta lista é possivel inserir editar e ecluir os devidos registros;
 - O Aplicativo deve conter os relatórios Sobdemanda e Produção e listagem de cadastros.
 
-# caracteristicas Funcionais
+# Caracteristicas Funcionais
 - O Aplicativo deve conter apresentar em forma de tabela com uma barra de comando para manipular os registros possibilitando a inserção, atualização e exclusão dos mesmos;
 - Cadastro de usuário e permissão;
 - Cadastro de Regras para Calculos;
