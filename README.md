@@ -7,17 +7,19 @@ Adiministrando todo o conteúdo atravéz de um formulários de cadastro e relat�
 
 # Requesitos
 - Software
--- Eclipse 
--- MySQLWorkbench
--- Apache 2.2
--- MySQL Server
--- PHP5.5
--- Navegadores Web
+
+ - Eclipse 
+ - MySQLWorkbench
+ - Apache 2.2
+ - MySQL Server
+ - PHP5.5
+ - Navegadores Web
 
 - Conhecimento
-- - IDE Eclipse;
-- - HTML, CSS3, JavaScript, JQuery;
-- - Framework CodeIgnater;
-- - PHP5.5 OOP;
-- - Banco de dados MySQL;
+
+ -- IDE Eclipse;
+ -- HTML, CSS3, JavaScript, JQuery;
+ -- Framework CodeIgnater;
+ -- PHP5.5 OOP;
+ -- Banco de dados MySQL;
  
