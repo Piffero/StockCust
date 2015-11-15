@@ -17,9 +17,9 @@ Adiministrando todo o conteúdo atravéz de um formulários de cadastro e relat�
 
 - Conhecimento
 
- -- IDE Eclipse;
- -- HTML, CSS3, JavaScript, JQuery;
- -- Framework CodeIgnater;
- -- PHP5.5 OOP;
- -- Banco de dados MySQL;
+ - IDE Eclipse;
+ - HTML, CSS3, JavaScript, JQuery;
+ - Framework CodeIgnater;
+ - PHP5.5 OOP;
+ - Banco de dados MySQL;
  
